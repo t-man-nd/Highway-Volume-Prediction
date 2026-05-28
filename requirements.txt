@@ -1,0 +1,18 @@
+# Data Wrangling & Excel processing
+pandas
+numpy
+openpyxl
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Statistical Modeling & Time Series Analysis
+statsmodels
+
+# Machine Learning
+xgboost
+scikit-learn
+
+# Environment to run the Jupyter Notebook
+jupyter
