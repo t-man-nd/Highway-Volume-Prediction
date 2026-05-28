@@ -1,6 +1,6 @@
 # Highway Traffic Volume Forecasting: A Comparative Approach from SARIMA to XGBoost
 
-This repository hosts an end-to-end data science pipeline for extracting, preprocessing, analyzing, and forecasting highway traffic volume. Focusing on target station **3-026** using historical records spanning from 2015 to 2023, the project evaluates and compares classical statistical frameworks (SARIMA, Holt-Winters) against modern machine learning approaches (XGBoost) for monthly time-series forecasting.
+This repository hosts an end-to-end data science pipeline for extracting, preprocessing, analyzing, and forecasting highway traffic volume. Focusing on target station **3-026** using historical records spanning from 2015 to 2023, the project evaluates and compares classical statistical frameworks SARIMA against simple approaches Holt-Winters and modern machine learning approaches (XGBoost) for monthly time-series forecasting.
 
 ---
 Course: Timeseries Analysis
