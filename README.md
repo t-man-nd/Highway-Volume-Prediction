@@ -53,7 +53,7 @@ The predictive pipeline integrates and benchmarks multiple algorithmic families:
 
 ## 📦 Installation & Getting Started
 
-### 1. Setup Environment
+### Setup Environment
 Clone the repository and install all required python dependencies:
 ```bash
 git clone [https://github.com/t-man-nd/Highway-Volume-Prediction.git](https://github.com/t-man-nd/Highway-Volume-Prediction.git)
